@@ -1,5 +1,5 @@
 import unittest
-from colorman.box import box
+from colornal.box import box
 
 
 class TestBoxFunction(unittest.TestCase):
