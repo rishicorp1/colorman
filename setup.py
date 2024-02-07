@@ -10,7 +10,7 @@ setup(
     author='Rishi',
     author_email='technorishi1200@gmail.com',
     description='A package for creating colored boxes in the console',
-    url='',
+    url='https://github.com/rishicorp1/colorman.git',
     python_requires='>=3.6',
     classifiers=[
         'Programming Language :: Python :: 3',
