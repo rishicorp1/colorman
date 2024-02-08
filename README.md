@@ -10,7 +10,7 @@ You can install Colornal via pip:
 pip install colornal
 
 
-from colornal import box
+from colornal.box import box
 
 # Create a red-colored box with the character 'A' inside
 box('A', color='red', box_type='normal')
